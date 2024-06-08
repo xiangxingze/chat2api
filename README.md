@@ -10,7 +10,7 @@
 
 ## 交流群
 
-[https://t.me/chat2api](https://t.me/chat2api)
+
 
 要提问请先阅读完仓库文档，尤其是常见问题部分。
 
@@ -81,7 +81,7 @@
 
 ### Zeabur 部署
 
-[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/6HEGIZ?referralCode=LanQian528)
+[![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=xiangxingze&utm_source=xiangxingze&utm_campaign=oss)
 
 ### 直接部署
 
